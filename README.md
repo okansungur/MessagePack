@@ -8,7 +8,7 @@ It has also a  huge support for programming languages.
 But migrating  from json to message pack we have to be careful as every applications has different conditions and challenges. So we have to see the test results before giving any desicions. 
 
 
-We are going to create a simple tutorial for MessagePack with Spring Boot.
+We are going to create a simple tutorial for MessagePack with Spring Boot. We 
 ```
         <dependency>
             <groupId>org.msgpack</groupId>
