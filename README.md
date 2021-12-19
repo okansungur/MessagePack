@@ -1,4 +1,4 @@
-# MessagePack
+# MessagePack Spring Boot
 
 It's like JSON but fast and small. That is how MessagePack  is described by [MessagePack](https://msgpack.org/). 
 It has an easy setup and usage. Decoding for a single operation is faster than json about 1 ms. We can get benefit from MsssagPack especially, when we are working with microservices
